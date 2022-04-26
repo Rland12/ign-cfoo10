@@ -9,3 +9,6 @@ insight into a professional career in technology. If I am accepted into the prog
 shine in my future efforts while also expanding my creative ability to aid others.
 
 # Hisui's New Power Plant
+
+1) calculate how much the city needs to run
+2) calculate how much power voltorbs can produce
