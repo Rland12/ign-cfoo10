@@ -10,5 +10,9 @@ shine in my future efforts while also expanding my creative ability to aid other
 
 # Hisui's New Power Plant
 
-1) calculate how much the city needs to run
-2) calculate how much power voltorbs can produce
+1) Record the number of houses and facilities in Jubilife Village.
+2) Create a formula to measure the average amount of power each building would need to run.
+3) Use a device to measure the amount of electricity a Voltorb can produce.
+4) Calculate how many buildings can be powered by 1 Voltorb to test.
+5) Divide the total number of buildings by the amount of Voltorb powered buildings.
+6) Catch the amount of Voltorbs needed to power the whole village.
