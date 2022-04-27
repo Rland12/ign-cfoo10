@@ -11,8 +11,8 @@ shine in my future efforts while also expanding my creative ability to aid other
 # Hisui's New Power Plant
 
 1) Record the number of houses and facilities in Jubilife Village.
-2) Create a formula to measure the average amount of power each building would need to run.
+2) Create a formula to measure the average amount of power each building needs to run.
 3) Use a device to measure the amount of electricity a Voltorb can produce.
 4) Calculate how many buildings can be powered by 1 Voltorb to test.
-5) Divide the total number of buildings by the amount of Voltorb powered buildings.
-6) Catch the amount of Voltorbs needed to power the whole village.
+5) Divide the total number of buildings by the number of Voltorb-powered buildings.
+6) Based on the number you got from step 5, you need to catch the number of Voltorbs needed to power the whole village.
