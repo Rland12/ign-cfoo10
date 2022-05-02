@@ -1,7 +1,5 @@
-# ign-cfoo10
+#ign-cfoo10
 Front-End application for IGN Code Foo program
-
-gain access to demo server:https://cors-anywhere.herokuapp.com/corsdemo
 
 # Introduction
 Hi, my name is Rashad. I am a 23 year old student with a passion for technology, games, and art. I have been a long-time subscriber and fan of IGN for years, 
@@ -18,3 +16,10 @@ shine in my future efforts while also expanding my creative ability to aid other
 4) Calculate how many buildings can be powered by 1 Voltorb to test.
 5) Divide the total number of buildings by the number of Voltorb-powered buildings.
 6) Based on the number you got from step 5, you need to catch the number of Voltorbs needed to power the whole village.
+
+# Front End Problem
+1) gain access to demo server:https://cors-anywhere.herokuapp.com/corsdemo
+2) download project and add the index to your browser.
+
+# Final Thoughts
+This was definitely a challenging project for sure. It helped me stretch my comfort zone when learning about fetching apis. The CORS part was tough to get around but thanks to the cors anywhere link it helped me bypass the issues with getting a response! That was a real life saver. Even though I didn't get the project quite right I still had fun working on it and will definitely improve upon it. The responses work for the most part but with some good dom manipulation it will serve its intended purpose.
