@@ -1,5 +1,6 @@
 # ign-cfoo10
 Front-End application for IGN Code Foo program
+gain access to demo server:https://cors-anywhere.herokuapp.com/corsdemo
 
 # Introduction
 Hi, my name is Rashad. I am a 23 year old student with a passion for technology, games, and art. I have been a long-time subscriber and fan of IGN for years, 
